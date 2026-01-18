@@ -1,89 +1,134 @@
-# Nesma Ashraf - Data Analyst & Computer Science Graduate
+# 👩‍💻 Nesma Ashraf
+### Software Engineer (Backend) | Teaching Assistant | Computer Science Graduate  
 
-**Email**: nesma.aaboelela@outlook.com  
-**Phone**: 01147119266  
-**Location**: Cairo, Egypt  
-**LinkedIn**: [Nesma Ashraf](https://www.linkedin.com/in/nesma-ashraf-37591a253)  
-
-## Profile
-Dedicated and results-oriented Computer Science graduate with a strong passion for data analysis and technology. Experienced in programming, algorithms, and software development, with hands-on internships in data analysis and engineering. Excited to leverage technical skills in real-world applications and continue growing in the tech industry.
+📍 Cairo, Egypt  
+📧 Email: nesma.aaboelela@outlook.com  
+📱 Phone: 01147119266  
+🔗 LinkedIn: https://www.linkedin.com/in/nesma-ashraf-37591a253  
 
 ---
 
-## Education
-- **Dual Degree in Computer Science**, Ain Shams University (Cairo) & University of East London (UK) | GPA: 3.445 (2020-2024)
+## 👤 Profile
+Results-driven **Backend Software Engineer** with strong experience in **NestJS, PHP Laravel, and Oracle APEX**, specialized in building database-driven systems and RESTful APIs.
 
-
-## Skills
-- **Languages**: C++, Java, Python, SQL, R, JavaScript, HTML, CSS, PHP
-- **Data Analysis Tools**: MS Excel, Power BI, SQL/MySQL, Pandas, scikit-learn
-- **Software Development**: Object-Oriented Programming (OOP), Android Development
-- **Version Control**: Git, GitHub
-- **Soft Skills**: Communication, Time Management
+Currently working **full-time as a Software Engineer** while also serving as a **Teaching Assistant at Ain Shams University**. Passionate about clean code, backend architecture, database logic (PL/SQL), and mentoring students.
 
 ---
 
-## Projects
-1. [Automated Pneumonia Detection System](#pneumonia-detection)
-2. [Employee Salary Prediction](#salary-prediction)
-3. [Image Filters](#image-filters)
-4. [Hospital System Design](#hospital-system)
-5. [INBODY Android App](#inbody-app)
-6. [SARAHA App](#saraha-app)
+## 🎓 Education
+**Dual Degree in Computer Science**  
+Ain Shams University (Cairo, Egypt) & University of East London (UK)  
+2020 – 2024  
+**GPA:** 3.445  
 
 ---
 
-### 1. <a id="pneumonia-detection"></a>Automated Pneumonia Detection System
-**Description**: Built a deep learning system for detecting pneumonia from chest X-rays using CNNs and machine learning techniques.  
-**Tools**: Python (TensorFlow, Keras), Pandas, Web Application Development.  
-**Results**: Achieved an accuracy of 95% on the validation set. Integrated the model into a web-based application.  
-[Link to Project Repository](#)
+## 💼 Work Experience
+
+### 🧑‍🏫 Teaching Assistant – Computer Science  
+**Ain Shams University** | 12/2025 – Present
+- Assisting in teaching computer science courses and lab sessions  
+- Supporting students with programming, databases, and backend development  
+- Participating in grading, academic guidance, and course preparation  
 
 ---
 
-### 2. <a id="salary-prediction"></a>Employee Salary Prediction
-**Description**: Developed a machine learning model to predict employee salaries using AI and various features like job role, experience, and education.  
-**Tools**: Python (scikit-learn), Pandas, Matplotlib.  
-**Results**: The model accurately predicted salaries with an R-squared value of 0.87.  
-[Link to Project Repository](#)
+### 💻 Software Engineer (Backend – NestJS & Oracle APEX)  
+**Blitz Armada** | 10/2025 – Present
+- Developing and maintaining backend services using **NestJS**  
+- Designing and implementing **RESTful APIs**  
+- Working extensively with **Oracle Database & Oracle APEX**  
+- Writing complex **PL/SQL procedures and packages**  
+- Integrating backend services with frontend and third-party systems  
+- Ensuring scalable, secure, and high-performance architectures  
 
 ---
 
-### 3. <a id="image-filters"></a>Image Filters
-**Description**: Created image filters using two different algorithms to enhance image quality.  
-**Tools**: Python, OpenCV.  
-**Results**: Demonstrated improvements in image clarity and contrast.  
-[Link to Project Repository](#)
+### 🛠 Developer Engineer – Laravel PHP & SQL  
+**POWER SMTP** | 02/2025 – 10/2025
+- Developed and maintained PHP & SQL-based systems for 30+ hotels  
+- Built ticketing and request management systems  
+- Provided technical support and system enhancements  
+- Collaborated with hotel staff and internal teams  
 
 ---
 
-### 4. <a id="hospital-system"></a>Hospital System Design
-**Description**: Designed a hospital management system using various diagrams and models.  
-**Tools**: UML, design patterns.  
-[Link to Project Repository](#)
+### 👩‍🏫 Coding Instructor  
+**iSchool** | 09/2024 – 02/2025
+- Delivered coding lessons in **Python, Java, and Web Development**  
+- Designed interactive projects and exercises for students aged 10–18  
+- Improved engagement through hands-on learning  
 
 ---
 
-### 5. <a id="inbody-app"></a>INBODY Android App
-**Description**: Developed an Android application that informs users about their required calories and macronutrients based on their body metrics.  
-**Tools**: Java, Android Studio.  
-[Link to Project Repository](#)
+## 🛠 Technical Skills
+
+### Backend & Programming
+- **Languages:** C++, Java, Python, PHP, SQL, JavaScript  
+- **Frameworks:** NestJS, Laravel  
+- **Databases:** Oracle, MySQL  
+- **Backend:** REST APIs, Oracle APEX, PL/SQL  
+- **Concepts:** OOP, Data Structures, System Design  
+
+### Data & Visualization
+- Power BI  
+- MS Excel  
+- Data Analysis with Python  
+
+### Tools
+- Git & GitHub  
+- HTML, CSS  
+- Figma  
+- Zoho Applications  
+
+### Soft Skills
+- Communication  
+- Time Management  
+- Teamwork & Mentoring  
 
 ---
 
-### 6. <a id="saraha-app"></a>SARAHA App
-**Description**: Created the SARAHA app using data structures in C++ for backend functionality.  
-**Tools**: C++, Data Structures.  
-[Link to Project Repository](#)
+## 🚀 Projects
+
+### 🫁 Automated Pneumonia Detection System (Graduation Project)
+- Deep learning system for detecting pneumonia from chest X-rays  
+- Integrated ML model into a web-based application  
+- **Tech:** Python, Deep Learning, Web Development  
 
 ---
 
-## Certifications
-- **Machine Learning**: [Analytics Vidhya](https://courses.analyticsvidhya.com/certificates/ffcnadvnwo)
-- **Git & GitHub**: [Udemy](https://www.udemy.com/)
-- **Web Development**: FWD Challenge Track by Udacity
-- **UI/UX Workshop**: OSC Student Activities
+### 🛒 E-Commerce Web Application (Laravel)
+- Full-stack e-commerce platform with authentication, cart, and checkout  
+- MVC architecture with Blade templates  
+- **Tech:** Laravel, PHP, MySQL, HTML/CSS/JS  
 
+---
 
-## Contact
-Feel free to reach out for collaboration or job opportunities!
+### 🏨 Wareise System (Hotel Asset Management)
+- Asset and maintenance management system for hotels  
+- Task scheduling and progress tracking  
+- **Tech:** PHP Laravel, MySQL  
+
+---
+
+### 🖧 Rack Management System
+- IT infrastructure management system for hotels  
+- Organizing racks, switches, and connected devices  
+- **Tech:** PHP Laravel  
+
+---
+
+## 📜 Courses & Certifications
+- Data Analysis with Python – Coursera  
+- Databases and SQL for Data Science – Coursera  
+- Python for Data Science, AI & Development – Coursera  
+- Data Visualization & Dashboards with Excel – Coursera  
+- Introduction to Data Analytics – Coursera  
+- Introduction to Data & Data Science – 365 Data Science  
+- UI/UX Workshop – OSC Student Activities  
+- Data Engineering Summer Training  
+
+---
+
+## 📬 Contact
+Feel free to reach out for backend roles, collaborations, or academic opportunities 🚀
